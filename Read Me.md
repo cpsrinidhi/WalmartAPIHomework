@@ -23,6 +23,6 @@ Instructions to Run:
 1. Install Python on the local system.
 2. Open the terminal and run the following command : pip install requests.
 3. Once the installation is complete , Download the walmart.py from the submission and navigate to the folder where the above file is present.
-4. Type in the following command : python walmart.py ------- . (Replace the '-' with your search string) and press enter.
-5. Example: python walmart.py ipad.
+4. Type in the following command : python walmart.py -------  (Replace the '-------' with your search string) and press enter.
+5. Example: python walmart.py ipad
 
